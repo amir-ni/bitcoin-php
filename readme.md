@@ -7,7 +7,7 @@ The code is not complete yet!
 To write this script, I used the details presented in [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference), [Bitcoin Protocol documentation](https://en.bitcoin.it/wiki/Protocol_documentation) and [learn me a Bitcoin](https://learnmeabitcoin.com/).
 
 This is simple presentation of basic messages transmitted between nodes in the Bitcoin network.
-![P2P Protocol Data Request And Reply Messages](./p2p-data-messages.svg)
+![P2P Protocol Data Request And Reply Messages](https://github.com/amir-ni/bitcoin-php/raw/master/p2p-data-messages.svg)
 
 ## How to Use
 Change config in `utils.php`, then just run 
